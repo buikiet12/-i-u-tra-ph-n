@@ -1,2 +1,1 @@
-# -i-u-tra-ph-n
-murder-mystery-mayhem
+<meta http-equiv="refresh" content="0; url=game.html">
